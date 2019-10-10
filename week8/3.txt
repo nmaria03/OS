@@ -1,0 +1,13 @@
+top - 23:38:17 up 16 min,  0 users,  load average: 0.52, 0.58, 0.59
+Tasks:   4 total,   1 running,   3 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  2.0 us,  3.7 sy,  0.0 ni, 94.3 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem :  5864568 total,  2369276 free,  3265940 used,   229352 buff/cache
+KiB Swap: 17825792 total, 17749840 free,    75952 used.  2464896 avail Mem
+
+
+top - 23:40:27 up 18 min,  0 users,  load average: 0.52, 0.58, 0.59
+Tasks:   5 total,   1 running,   4 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  0.7 us,  1.7 sy,  0.0 ni, 97.5 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem :  5864568 total,  2354952 free,  3280264 used,   229352 buff/cache
+KiB Swap: 17825792 total, 17749840 free,    75952 used.  2450572 avail Mem
+

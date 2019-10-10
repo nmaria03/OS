@@ -1,0 +1,3 @@
+Physical address is a direct, fixed address of some spot in physical memory, it applies to hardware addresses of physical memory.
+Virtual address  is an address that must be translated one or more times in order to produce a direct address of physical memory, it applies to the virtual store viewed by the process.
+
