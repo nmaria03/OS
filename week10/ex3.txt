@@ -1,0 +1,7 @@
+-rw-r--r-- 1 ukozar ukozar 0 Oct 24 22:47 _ex3.txt
+-rwxr--rwx 1 ukozar ukozar 0 Oct 24 22:47 _ex3.txt
+-rwxrwxrwx 1 ukozar ukozar 0 Oct 24 22:47 _ex3.txt
+
+chmod 660 _ex3.txt: owner and group can read and write
+chmod 775 _ex3.txt: owner and group can read, write and execute, other can read
+chmod 777 _ex3.txt: all users and groups can read, write and execute

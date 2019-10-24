@@ -1,0 +1,2 @@
+/mnt/c/Users/mbudn/Desktop/OS/week01/file.txt
+/mnt/c/Users/mbudn/Desktop/OS/week10/_ex2.txt
